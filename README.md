@@ -8,4 +8,5 @@ import numpy as np
 from centroidtracker import CentroidTracker
 import face_recognition
 
+https://ieeexplore.ieee.org/document/10210102
 
